@@ -11,6 +11,7 @@ Shell Scripts – Automation and backup scripts.
 Docker & Kubernetes – Containers, deployments, and configurations.
 
 Monitoring & Logging – Prometheus, Grafana, and other monitoring tools.
+
 This repository is meant to track my learning journey and serve as a reference for future projects.
 
 # 🛠️ Tools & Technologies
